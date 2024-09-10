@@ -91,7 +91,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <nav class="navbar navbar-expand-lg bg-body-tertiary nav-bg nav-scroll">
             <div class="container-fluid ">
-                <a class="navbar-brand" href="#">TRAINING <span class="span1"> <i class="fa-solid fa-dumbbell"></i> STUDIO </span></a>
+               <div class="mx-2">
+                    <img src="assets/training-studio-high-resolution-logo-transparent (1).png" alt="logo" height="40px">
+               </div>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
